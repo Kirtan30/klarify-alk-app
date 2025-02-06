@@ -1,0 +1,35 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "axios": "^0.27",
+        "laravel-vite-plugin": "^0.5.0",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "vite": "^3.0.0",
+        "vue-template-compiler": "^2.7.10"
+    },
+    "dependencies": {
+        "@hulkapps/polaris-vue": "^3.0.9",
+        "@shopify/app-bridge": "^3.7.9",
+        "@shopify/app-bridge-utils": "^3.5.1",
+        "@tinymce/tinymce-vue": "^3.2.8",
+        "ckeditor4-vue": "^2.1.1",
+        "laravel-mix": "^6.0.49",
+        "moment": "^2.29.3",
+        "vee-validate": "^3.4.14",
+        "vue": "^2.6.14",
+        "vue-codemirror": "^4.0.6",
+        "vue-loader": "^15.10.0",
+        "vue-router": "^3.6.4",
+        "vuex": "^3.6.2"
+    }
+}

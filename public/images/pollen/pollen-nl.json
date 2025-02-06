@@ -1,0 +1,779 @@
+[
+    {
+        "name": "Hazelaar",
+        "type": "tree",
+        "low": [
+            {
+                "start": 5,
+                "end": 17
+            }
+        ],
+        "mid": [
+            {
+                "start": 9,
+                "end": 16
+            }
+        ],
+        "high": []
+    },
+    {
+        "name": "Witte els",
+        "type": "tree",
+        "low": [
+            {
+                "start": 5,
+                "end": 17
+            }
+        ],
+        "mid": [
+            {
+                "start": 9,
+                "end": 16
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Zwarte els",
+        "type": "tree",
+        "low": [
+            {
+                "start": 5,
+                "end": 17
+            }
+        ],
+        "mid": [
+            {
+                "start": 9,
+                "end": 16
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Katwilg",
+        "type": "tree",
+        "low": [
+            {
+                "start": 9,
+                "end": 21
+            }
+        ],
+        "mid": [
+            {
+                "start": 13,
+                "end": 20
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Taxus",
+        "type": "tree",
+        "low": [
+            {
+                "start": 9,
+                "end": 25
+            }
+        ],
+        "mid": [
+            {
+                "start": 13,
+                "end": 24
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Populier",
+        "type": "tree",
+        "low": [
+            {
+                "start": 13,
+                "end": 21
+            }
+        ],
+        "mid": [
+            {
+                "start": 17,
+                "end": 20
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Haagbeuk",
+        "type": "tree",
+        "low": [
+            {
+                "start": 13,
+                "end": 25
+            }
+        ],
+        "mid": [
+            {
+                "start": 17,
+                "end": 24
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Berk",
+        "type": "tree",
+        "low": [
+            {
+                "start": 13,
+                "end": 25
+            }
+        ],
+        "mid": [
+            {
+                "start": 17,
+                "end": 24
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Beuk",
+        "type": "tree",
+        "low": [
+            {
+                "start": 16,
+                "end": 25
+            }
+        ],
+        "mid": [
+            {
+                "start": 17,
+                "end": 24
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Eik",
+        "type": "tree",
+        "low": [
+            {
+                "start": 16,
+                "end": 25
+            }
+        ],
+        "mid": [
+            {
+                "start": 17,
+                "end": 24
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Es",
+        "type": "tree",
+        "low": [
+            {
+                "start": 16,
+                "end": 25
+            }
+        ],
+        "mid": [
+            {
+                "start": 17,
+                "end": 24
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Grove den",
+        "type": "tree",
+        "low": [
+            {
+                "start": 17,
+                "end": 29
+            }
+        ],
+        "mid": [
+            {
+                "start": 21,
+                "end": 28
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Tamme kastanje",
+        "type": "tree",
+        "low": [
+            {
+                "start": 24,
+                "end": 29
+            }
+        ],
+        "mid": [
+            {
+                "start": 25,
+                "end": 28
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Linde",
+        "type": "tree",
+        "low": [
+            {
+                "start": 24,
+                "end": 33
+            }
+        ],
+        "mid": [
+            {
+                "start": 25,
+                "end": 32
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Grote vossenstaart",
+        "type": "grass",
+        "low": [
+            {
+                "start": 12,
+                "end": 28
+            }
+        ],
+        "mid": [
+            {
+                "start": 13,
+                "end": 24
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Kropaar",
+        "type": "grass",
+        "low": [
+            {
+                "start": 13,
+                "end": 33
+            }
+        ],
+        "mid": [
+            {
+                "start": 17,
+                "end": 32
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Veldbeemdgras",
+        "type": "grass",
+        "low": [
+            {
+                "start": 16,
+                "end": 26
+            }
+        ],
+        "mid": [
+            {
+                "start": 17,
+                "end": 24
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Gewoon reukgras",
+        "type": "grass",
+        "low": [
+            {
+                "start": 16,
+                "end": 33
+            }
+        ],
+        "mid": [
+            {
+                "start": 17,
+                "end": 32
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Gestreepte witbol",
+        "type": "grass",
+        "low": [
+            {
+                "start": 16,
+                "end": 37
+            }
+        ],
+        "mid": [
+            {
+                "start": 17,
+                "end": 36
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Rogge",
+        "type": "grass",
+        "low": [
+            {
+                "start": 20,
+                "end": 34
+            }
+        ],
+        "mid": [
+            {
+                "start": 21,
+                "end": 32
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Kamgras",
+        "type": "grass",
+        "low": [
+            {
+                "start": 20,
+                "end": 36
+            }
+        ],
+        "mid": [
+            {
+                "start": 21,
+                "end": 28
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Engels raaignas",
+        "type": "grass",
+        "low": [
+            {
+                "start": 20,
+                "end": 41
+            }
+        ],
+        "mid": [
+            {
+                "start": 21,
+                "end": 40
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Glanshaver",
+        "type": "grass",
+        "low": [
+            {
+                "start": 20,
+                "end": 41
+            }
+        ],
+        "mid": [
+            {
+                "start": 21,
+                "end": 40
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Straatgras",
+        "type": "grass",
+        "low": [
+            {
+                "start": 20,
+                "end": 45
+            }
+        ],
+        "mid": [
+            {
+                "start": 21,
+                "end": 44
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Kweek",
+        "type": "grass",
+        "low": [
+            {
+                "start": 24,
+                "end": 37
+            }
+        ],
+        "mid": [
+            {
+                "start": 25,
+                "end": 36
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Maïs",
+        "type": "grass",
+        "low": [
+            {
+                "start": 24,
+                "end": 37
+            }
+        ],
+        "mid": [
+            {
+                "start": 25,
+                "end": 36
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Timoteegras",
+        "type": "grass",
+        "low": [
+            {
+                "start": 24,
+                "end": 37
+            }
+        ],
+        "mid": [
+            {
+                "start": 25,
+                "end": 36
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Riet",
+        "type": "grass",
+        "low": [
+            {
+                "start": 28,
+                "end": 45
+            }
+        ],
+        "mid": [
+            {
+                "start": 29,
+                "end": 44
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Veldzuring",
+        "type": "weed",
+        "low": [
+            {
+                "start": 17,
+                "end": 36
+            }
+        ],
+        "mid": [
+            {
+                "start": 21,
+                "end": 28
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Smalle weegbree",
+        "type": "weed",
+        "low": [
+            {
+                "start": 17,
+                "end": 40
+            }
+        ],
+        "mid": [
+            {
+                "start": 21,
+                "end": 32
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Klein glaskruid",
+        "type": "weed",
+        "low": [
+            {
+                "start": 17,
+                "end": 44
+            }
+        ],
+        "mid": [
+            {
+                "start": 21,
+                "end": 32
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Paardenbloem",
+        "type": "weed",
+        "low": [
+            {
+                "start": 20,
+                "end": 44
+            }
+        ],
+        "mid": [
+            {
+                "start": 21,
+                "end": 40
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Brandnetel",
+        "type": "weed",
+        "low": [
+            {
+                "start": 24,
+                "end": 45
+            }
+        ],
+        "mid": [
+            {
+                "start": 25,
+                "end": 44
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Bijvoet",
+        "type": "weed",
+        "low": [
+            {
+                "start": 28,
+                "end": 44
+            }
+        ],
+        "mid": [
+            {
+                "start": 29,
+                "end": 40
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Melganzenvoet",
+        "type": "weed",
+        "low": [
+            {
+                "start": 25,
+                "end": 45
+            }
+        ],
+        "mid": [
+            {
+                "start": 29,
+                "end": 40
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Ambrosia",
+        "type": "weed",
+        "low": [
+            {
+                "start": 33,
+                "end": 45
+            }
+        ],
+        "mid": [
+            {
+                "start": 36,
+                "end": 44
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Alternaria",
+        "type": "Molds",
+        "low": [
+            {
+                "start": 21,
+                "end": 44
+            }
+        ],
+        "mid": [
+            {
+                "start": 29,
+                "end": 36
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Cladosporium",
+        "type": "Molds",
+        "low": [
+            {
+                "start": 17,
+                "end": 44
+            }
+        ],
+        "mid": [
+            {
+                "start": 25,
+                "end": 36
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Aspergillus",
+        "type": "Molds",
+        "low": [
+            {
+                "start": 1,
+                "end": 48
+            }
+        ],
+        "mid": [
+            {
+                "start": 1,
+                "end": 12
+            },
+            {
+                "start": 45,
+                "end": 48
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Penicillium",
+        "type": "Molds",
+        "low": [
+            {
+                "start": 1,
+                "end": 48
+            }
+        ],
+        "mid": [
+            {
+                "start": 1,
+                "end": 20
+            },
+            {
+                "start": 41,
+                "end": 48
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Huisstofmijt",
+        "type": "Mites",
+        "low": [
+            {
+                "start": 1,
+                "end": 48
+            }
+        ],
+        "mid": [
+            {
+                "start": 1,
+                "end": 20
+            },
+            {
+                "start": 41,
+                "end": 48
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Bij",
+        "type": "Insects",
+        "low": [
+            {
+                "start": 14,
+                "end": 43
+            }
+        ],
+        "mid": [
+            {
+                "start": 17,
+                "end": 40
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Wesp",
+        "type": "Insects",
+        "low": [
+            {
+                "start": 27,
+                "end": 43
+            }
+        ],
+        "mid": [
+            {
+                "start": 29,
+                "end": 40
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Hommel",
+        "type": "Insects",
+        "low": [
+            {
+                "start": 11,
+                "end": 46
+            }
+        ],
+        "mid": [
+            {
+                "start": 15,
+                "end": 42
+            }
+        ],
+        "high":  []
+    },
+    {
+        "name": "Hoornaar",
+        "type": "Insects",
+        "low": [
+            {
+                "start": 27,
+                "end": 43
+            }
+        ],
+        "mid": [
+            {
+                "start": 29,
+                "end": 40
+            }
+        ],
+        "high":  []
+    }
+]

@@ -1,0 +1,45 @@
+name: Deploy to master Server
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: [self-hosted ]
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Deploy code
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.SSH_HOST }}
+        username: root
+        key: ${{ secrets.DEPLOY_KEY }}
+        port: 22
+        script: |
+          cd /var/www/html
+
+          echo "Pulling Changes from VCS"
+          git pull origin master
+
+          echo "Installing PHP Dependency (composer install)"
+          composer install --prefer-dist --no-dev
+
+          echo "Installing Node Project Dependency (npm install)"
+          npm ci
+
+          echo "Dumping Project Dependency (composer dump-autoload)"
+          composer dump-autoload
+
+          echo "Migrating Database Changes (php artisan migrate)"
+          php artisan migrate --force
+
+          echo "Compiling Frontend Assets (npm run prod)"
+          npm run prod
+
+          echo "Restarting Docker Containers"
+          supervisorctl restart all
+          

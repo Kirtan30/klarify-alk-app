@@ -1,0 +1,338 @@
+{
+    "Top_Categories": [
+        {
+            "Top_Category_Name": "Swim",
+            "Top_Category_Code": "sb",
+            "Brands": [
+                {
+                    "Name": "brand-1",
+                    "URL": "https://www.trisports.com/brand-1",
+                    "Logo_URL": "https://static.trisports.com/mfglogos/logodc.jpg"
+                },
+                {
+                    "Name": "brand-2",
+                    "URL": "https://www.trisports.com/brand-2",
+                    "Logo_URL": "https://static.trisports.com/mfglogos/logodc.jpg"
+                }
+            ],
+            "Category_Groups": [
+                {
+                    "CatGroup_Name": "Wetsuits",
+                    "CatGroup_Num": 190,
+                    "Brands": [
+                        {
+                            "Name": "brand-1",
+                            "URL": "https://www.trisports.com/brand-1",
+                            "Logo_URL": "https://static.trisports.com/mfglogos/logodc.jpg"
+                        },
+                        {
+                            "Name": "brand-2",
+                            "URL": "https://www.trisports.com/brand-2",
+                            "Logo_URL": "https://static.trisports.com/mfglogos/logodc.jpg"
+                        }
+                    ],
+                    "Categories": [
+                        {
+                            "Category_Name": "Men's Wetsuits",
+                            "Category_Code": "we",
+                            "Brands": [
+                                {
+                                    "Name": "brand-1",
+                                    "URL": "https://www.trisports.com/brand-1",
+                                    "Logo_URL": "https://static.trisports.com/mfglogos/logodc.jpg"
+                                },
+                                {
+                                    "Name": "brand-2",
+                                    "URL": "https://www.trisports.com/brand-2",
+                                    "Logo_URL": "https://static.trisports.com/mfglogos/logodc.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "Category_Name": "Women's Wetsuits",
+                            "Category_Code": "eu",
+                            "Brands": [
+                                {
+                                    "Name": "brand-1",
+                                    "URL": "https://www.trisports.com/brand-1",
+                                    "Logo_URL": "https://static.trisports.com/mfglogos/logodc.jpg"
+                                },
+                                {
+                                    "Name": "brand-2",
+                                    "URL": "https://www.trisports.com/brand-2",
+                                    "Logo_URL": "https://static.trisports.com/mfglogos/logodc.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "Category_Name": "Wetsuit Accessories",
+                            "Category_Code": "wf",
+                            "Brands": [
+                                {
+                                    "Name": "brand-1",
+                                    "URL": "https://www.trisports.com/brand-1",
+                                    "Logo_URL": "https://static.trisports.com/mfglogos/logodc.jpg"
+                                },
+                                {
+                                    "Name": "brand-2",
+                                    "URL": "https://www.trisports.com/brand-2",
+                                    "Logo_URL": "https://static.trisports.com/mfglogos/logodc.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "CatGroup_Name": "Swim Wear",
+                    "CatGroup_Num": 141,
+                    "Categories": [
+                        {
+                            "Category_Name": "Men's Swim Wear",
+                            "Category_Code": "uv"
+                        },
+                        {
+                            "Category_Name": "Women's Swim Wear",
+                            "Category_Code": "td"
+                        }
+                    ]
+                },
+                {
+                    "CatGroup_Name": "Swim Accessories",
+                    "CatGroup_Num": 140,
+                    "Categories": [
+                        {
+                            "Category_Name": "Swim Training Aids",
+                            "Category_Code": "vf"
+                        },
+                        {
+                            "Category_Name": "Swim Goggles",
+                            "Category_Code": "us"
+                        },
+                        {
+                            "Category_Name": "Swim Caps",
+                            "Category_Code": "ve"
+                        },
+                        {
+                            "Category_Name": "Transition Bags",
+                            "Category_Code": "uw"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Top_Category_Name": "Bike",
+            "Top_Category_Code": "xk",
+            "Category_Groups": [
+                {
+                    "CatGroup_Name": "Bikes & Frames",
+                    "CatGroup_Num": 180,
+                    "Categories": [
+                        {
+                            "Category_Name": "Road Bikes",
+                            "Category_Code": "rq"
+                        },
+                        {
+                            "Category_Name": "Triathlon/TT Bikes",
+                            "Category_Code": "ul"
+                        },
+                        {
+                        }
+                    ]
+                },
+                {
+                    "CatGroup_Name": "Cockpit",
+                    "CatGroup_Num": 153,
+                    "Categories": [
+                        {
+                            "Category_Name": "Aerobars",
+                            "Category_Code": "ha"
+                        },
+                        {
+                            "Category_Name": "Handlebars",
+                            "Category_Code": "hb"
+                        },
+                        {
+                            "Category_Name": "Handlebar Tape",
+                            "Category_Code": "ht"
+                        },
+                        {
+                            "Category_Name": "Headsets & Spacers",
+                            "Category_Code": "hd"
+                        },
+                        {
+                            "Category_Name": "Stems",
+                            "Category_Code": "st"
+                        },
+                        {
+                        }
+                    ]
+                },
+                {
+                    "CatGroup_Name": "Drivetrain & Brakes",
+                    "CatGroup_Num": 104,
+                    "Categories": [
+                        {
+                            "Category_Name": "Bottom Brackets",
+                            "Category_Code": "bb"
+                        },
+                        {
+                            "Category_Name": "Brakes & Pads",
+                            "Category_Code": "br"
+                        },
+                        {
+                            "Category_Name": "Cables & Housing",
+                            "Category_Code": "cb"
+                        },
+                        {
+                            "Category_Name": "Cassettes",
+                            "Category_Code": "ca"
+                        },
+                        {
+                            "Category_Name": "Chains",
+                            "Category_Code": "ch"
+                        },
+                        {
+                            "Category_Name": "Chainrings",
+                            "Category_Code": "cn"
+                        },
+                        {
+                            "Category_Name": "Cranks & Cranksets",
+                            "Category_Code": "cr"
+                        },
+                        {
+                            "Category_Name": "Derailleurs - Front",
+                            "Category_Code": "df"
+                        },
+                        {
+                            "Category_Name": "Derailleurs - Rear",
+                            "Category_Code": "de"
+                        },
+                        {
+                            "Category_Name": "Groupsets & Kits",
+                            "Category_Code": "gp"
+                        },
+                        {
+                            "Category_Name": "Shifters",
+                            "Category_Code": "sh"
+                        }
+                    ]
+                },
+                {
+                    "CatGroup_Name": "Saddles",
+                    "CatGroup_Num": 72,
+                    "Categories": [
+                        {
+                            "Category_Name": "Road Bike Saddles",
+                            "Category_Code": "rr"
+                        },
+                        {
+                            "Category_Name": "Saddles - Triathlon",
+                            "Category_Code": "sg"
+                        },
+                        {
+                            "Category_Name": "Women's Saddles",
+                            "Category_Code": "wx"
+                        },
+                        {
+                            "Category_Name": "Seatposts & Binders",
+                            "Category_Code": "sp"
+                        }
+                    ]
+                },
+                {
+                    "CatGroup_Name": "Pedals & Cleats",
+                    "CatGroup_Num": 157,
+                    "Categories": [
+                        {
+                            "Category_Name": "Road Pedals",
+                            "Category_Code": "rw"
+                        },
+                        {
+                            "Category_Name": "Mountain Pedals",
+                            "Category_Code": "na"
+                        },
+                        {
+                            "Category_Name": "Cleats",
+                            "Category_Code": "dd"
+                        },
+                        {
+                        }
+                    ]
+                },
+                {
+                    "CatGroup_Name": "Parts & Accessories",
+                    "CatGroup_Num": 107,
+                    "Categories": [
+                        {
+                            "Category_Name": "Electronic Accessories & Cables",
+                            "Category_Code": "el"
+                        },
+                        {
+                            "Category_Name": "Miscellaneous Small Parts",
+                            "Category_Code": "pa"
+                        },
+                        {
+                        }
+                    ]
+                },
+                {
+                    "CatGroup_Name": "Wheels",
+                    "CatGroup_Num": 88,
+                    "Categories": [
+                        {
+                            "Category_Name": "Road Wheels - Clincher",
+                            "Category_Code": "cw"
+                        },
+                        {
+                            "Category_Name": "Mountain Wheels",
+                            "Category_Code": "mo"
+                        },
+                        {
+                            "Category_Name": "Skewers & Wheel Accessories",
+                            "Category_Code": "qs"
+                        }
+                    ]
+                },
+                {
+                    "CatGroup_Name": "Tires & Tubes",
+                    "CatGroup_Num": 158,
+                    "Categories": [
+                        {
+                            "Category_Name": "650C Tires",
+                            "Category_Code": "65"
+                        },
+                        {
+                            "Category_Name": "Road Race Tires",
+                            "Category_Code": "ra"
+                        },
+                        {
+                            "Category_Name": "Tubular Road Tires",
+                            "Category_Code": "tt"
+                        },
+                        {
+                            "Category_Name": "Cyclocross Tires",
+                            "Category_Code": "ct"
+                        },
+                        {
+                            "Category_Name": "Mountain Bike Tires",
+                            "Category_Code": "mt"
+                        },
+                        {
+                            "Category_Name": "Tubes",
+                            "Category_Code": "tz"
+                        },
+                        {
+                            "Category_Name": "Tubular Accessories",
+                            "Category_Code": "tv"
+                        },
+                        {
+                            "Category_Name": "Tire Liners/Sealers/Repair",
+                            "Category_Code": "ts"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
